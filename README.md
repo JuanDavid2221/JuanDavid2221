@@ -7,12 +7,12 @@
 ## <h1 align="center">📊 GitHub Stats:</h1>
 
 <div align="center">
-  <!-- Estadísticas de GitHub con todas las contribuciones -->
+  <!-- Estadísticas de GitHub con todas las contribuciones, incluyendo colaboraciones -->
   <a href="https://github.com/JuanDavid2221">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanDavid2221&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true" />
   </a>
   
-  <!-- Estadísticas de lenguajes de programación (mostrando solo los 6 más usados) -->
+  <!-- Estadísticas de lenguajes de programación (mostrando solo los 6 más usados, incluyendo repositorios colaborativos) -->
   <a href="https://github.com/JuanDavid2221">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavid2221&layout=compact&langs_count=6&theme=tokyonight&hide_title=true" />
   </a>
